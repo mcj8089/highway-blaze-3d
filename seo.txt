@@ -1,0 +1,45 @@
+Highway Blaze 3D — Game Info (English)
+=========================================
+
+Title:
+Highway Blaze 3D — Cinematic Highway Racing
+
+Category:
+Casual (Racing · Driving · 3D · Endless · Single-player · Browser · Free)
+
+TAGS:
+Casual, Racing, Driving, Highway, 3D, Endless, Near-Miss, Nitro, Traffic, Single-player, Level-Based, Browser Game, HTML5, Free-to-Play, No Download, Desktop and Mobile, Keyboard Controls, Touch Controls
+
+Short Description:
+A cinematic-real 3D highway racer. Push a 270 km/h supercar through six hand-built worlds — golden coast, sunset overpass, rainy neon downtown, snowy mountain pass, neon boulevard, and a dawn storm convoy. Score four ways: distance, near-miss combos, overspeed, and wrong-way. Chain near-misses for combo multipliers, manage the speed bomb, and thread checkpoints before the timer runs out. Free in your browser.
+
+How to Play:
+You are driving a supercar on a multi-lane highway. The road is 900 meters long and loops forever.
+
+Steer. Four lanes in your direction. Steer speed is 18, steering acceleration 95, damping 6.5.
+
+Speed. Min speed 12 m/s, max speed 75 m/s — that is 270 km/h. Acceleration 17.5, brake 38, coast 5.
+
+Nitro. Tank holds 100. Drains at 30 per second, regen 9 per second, boost adds 24 m/s. You need at least 25 to fire.
+
+Traffic. Base traffic speed is 16 m/s with ±7 variance. Cars change lanes with a 0.18 chance and signal 0.8 seconds ahead. Seven traffic colors on the road.
+
+Score four channels:
+- Distance — 0.5 points per meter.
+- Near-miss — 120 base points per car passed within 3.3 meters at 88 km/h or faster. Combo window 2.5 seconds, combo bonus +25 percent per chain.
+- Overspeed — 30 points per second above 190 km/h.
+- Wrong-way — 55 points per second driving against traffic.
+
+Six levels, each in its own world:
+1. Golden Coast Noon — near-miss combo tutorial. Goal 1500 m. Find the gold car for a 500 bonus.
+2. Overpass Sunset Dual — two-way traffic. Wrong-way bonus at 55 per second. Goal 2000 m.
+3. Downtown Rain Night — wet grip at 0.72, traffic signals on. Goal 2400 m.
+4. Mountain Snow Dusk — snow grip at 0.62, checkpoints every 360 meters add 9 seconds. Start timer 36 seconds. Goal 2600 m.
+5. Boulevard Bomb Neon — speed bomb. Drop below 110 km/h and the fuse lights, draining 12 per second. Stay above to refill at 7 per second. Goal 3000 m.
+6. Convoy Dawn Storm — two-way + bomb + wet road all at once. Goal 3600 m.
+
+Cinematic-real rendering tier: 2048 shadow maps, fog density 0.0026, exposure 1.12, dynamic resolution down to 0.5 scale when FPS drops below 26.
+
+Revive once per run. Three assists per run.
+
+Free, no install, no account. Push the throttle. Thread the gap. Chain the near-miss.
