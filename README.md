@@ -4,7 +4,7 @@
 
 > **Cinematic 3D highway racer** — push a 270 km/h supercar through six hand-built worlds. Thread the traffic, chain near-miss combos, fire the nitro, and survive the speed bomb. Free in your browser, no download, no install, no sign-up.
 
-**▶ Play now:** [https://pipygames.com/games/highway-blaze-3d/](https://pipygames.com/games/highway-blaze-3d/)
+**▶ Play now:** [https://pipygames.com/games/highway-blaze-3d-i78y](https://pipygames.com/games/highway-blaze-3d-i78y)
 **More free games:** [https://pipygames.com](https://pipygames.com) · [Racing category](https://pipygames.com/category/racing) · [New releases](https://pipygames.com/new)
 
 ---
@@ -108,7 +108,7 @@ seo.txt               Public listing title, tags and descriptions
 
 **Highway Blaze 3D（烈焰公路 3D）** 是一款原创 3D 公路竞速浏览器游戏，Three.js 本地内置、离线可跑。驾驶跑车在循环多车道高速上穿行，通过里程、擦身连击、超速、逆行四条通道同时得分；六关六个世界，机制从擦身教学一路叠加到炸弹 + 对向车流 + 湿地同时在线的终局护航。
 
-- 线上游玩：[https://pipygames.com/games/highway-blaze-3d/](https://pipygames.com/games/highway-blaze-3d/)
+- 线上游玩：[https://pipygames.com/games/highway-blaze-3d-i78y](https://pipygames.com/games/highway-blaze-3d-i78y)
 - 更多免费小游戏：[https://pipygames.com](https://pipygames.com)
 - 本地运行：双击 `一键启动.bat`，或 `python tools/start.py 8231` 后打开 `http://localhost:8231/`（ES Module 必须走 HTTP）。
 
